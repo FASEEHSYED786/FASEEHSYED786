@@ -6,6 +6,21 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and integrating them into my projects to create impactful solutions.
 
+## About Me
+I'm a professional WordPress developer with extensive experience since 2017. Over the years, I have honed my skills in creating custom themes, developing bespoke plugins, and optimizing websites for better performance and user engagement. My expertise lies in translating client requirements into innovative and functional digital solutions.
+
+## Websites Developed
+Here are some of the websites I have developed:
+- [Harbor Dubai](https://harbordubai.com)
+- [Zillancer Freelancing Platform](https://zillancer.com)
+- [Mohanad Business](https://mohanadbusiness.com)
+- [Personal Website](https://syedfaseeh.com)
+- [Elantra Tech](https://elantratech.co.uk)
+- [Swisso](https://swisso.co.uk)
+- [Advertron](https://advertron.com.au)
+- [Exam Bites](https://exambites.org/)
+- [Grow Business](https://grow-business.co.uk/)
+
 <!---
 FASEEHSYED786/FASEEHSYED786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
